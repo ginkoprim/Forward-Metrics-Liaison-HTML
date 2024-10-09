@@ -1,0 +1,30 @@
+.hollie-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.hollie-rustic {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.hollie-image {
+  width: 200px;
+  object-fit: cover;
+}
+.hollie-fragment1 {
+  display: contents;
+}
+.hollie-text3 {
+  display: inline-block;
+}
+.hollie-fragment2 {
+  display: contents;
+}
+.hollie-text4 {
+  display: inline-block;
+}
